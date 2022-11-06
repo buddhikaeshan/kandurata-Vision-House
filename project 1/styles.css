@@ -135,7 +135,7 @@
 .about-2-para{
 	color: dimgray;
 	font-size: 17px;
-	padding: 30px 100px;
+	padding: 30px 10px;
 	font-weight: 600;
 }
 .service{
@@ -430,7 +430,7 @@
 		font-size:15px;
 	}
 	.service-2{
-		grid-template-columns:repeat(auto-fit,20rem);
+		grid-template-columns:repeat(auto-fit,15rem);
 	}
 	.service-2-item{
 		position: static;
